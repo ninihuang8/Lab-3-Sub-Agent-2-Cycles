@@ -1,0 +1,28 @@
+{
+  "test": "supplementary_materiality",
+  "instruction_version": "0.2-student",
+  "run_provenance": "One response generated in current ChatGPT/Codex session from its own built packet. Not an isolated API/session replication. No response repair. No fresh external verification.",
+  "date": "2026-10-10",
+  "input_full_schema": "PASS",
+  "output_full_schema": "PASS",
+  "schema_method": "Recursive read-only evaluation of every applicable keyword in actual schemas; rejects unhandled keywords. Not supplied basic validator.",
+  "supplied_validator": {
+    "exit_code": 0,
+    "output": "VALIDATION PASSED"
+  },
+  "frozen_core": {
+    "exit_code": 0,
+    "output": "FROZEN CORE INTACT"
+  },
+  "preexisting_files_checked": 64,
+  "changed_preexisting_files": [],
+  "shared_evidence_identical": true,
+  "instruction_snapshot_identical": true,
+  "hashes": {
+    "agents/innovation_disruption_agent/cases/supplementary_materiality.json": "158ae479b3748e38b33bfc2e100e0273c0c70fc4b5a997676bb9c95c1194a630",
+    "work/innovation_disruption_agent_supplementary_materiality_v0.2_prompt.txt": "8f7631e4756b62ceb6bca317971fac1eaf153e1675b174a0af6085755cc1245b",
+    "agents/innovation_disruption_agent/responses/supplementary_materiality_response_v0.2.json": "667b1b1c822e6b2ea89f939c711f76f6d376ad1bbc906c74e0d5494528a951c3"
+  },
+  "github_setup": "Outstanding; git work tree unavailable",
+  "self_reflection": "Mandatory; reserved unwritten for student observations. Submission incomplete."
+}

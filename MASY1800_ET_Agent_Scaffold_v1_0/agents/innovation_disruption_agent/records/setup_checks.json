@@ -1,0 +1,15 @@
+{
+  "frozen_core": "FROZEN CORE INTACT",
+  "case_checks": [
+    "primary.json: INPUT SCHEMA PASS (all required fields present; all declared fields strings; no extra fields)",
+    "contrast_1.json: INPUT SCHEMA PASS (all required fields present; all declared fields strings; no extra fields)",
+    "contrast_2.json: INPUT SCHEMA PASS (all required fields present; all declared fields strings; no extra fields)"
+  ],
+  "all_original_members_unchanged": true,
+  "original_zip_sha256": "3875e8924556b2801c572390fb2c90e5957aea452d33312a31084e1f3712e754",
+  "initial_instructions_sha256": "8f4819584a24bb70bfc0963a15cbcce20e3a3177f330e95c3132658f73172b07",
+  "snapshot_identical": true,
+  "agent_runs": "NOT RUN",
+  "repository": "git rev-parse reports not a git repository",
+  "method": "Case schema checked directly for object, required keys and declared string types; no input schema or frozen tools changed."
+}

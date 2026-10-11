@@ -1,0 +1,40 @@
+{
+  "run_date": "2026-10-10",
+  "runtime": "Three separate case generations in current ChatGPT/Codex session from each v0.2 packet; not isolated sessions or API execution.",
+  "instruction_version": "0.2-student",
+  "results": {
+    "primary": {
+      "supplied_validator": "VALIDATION PASSED",
+      "full_output_schema": "PASS",
+      "input_schema": "PASS",
+      "response_sha256": "1d8c6a52051fd4d635de0551301ab9a39d4f6a3ce0bb362146beace0d0546021",
+      "prompt_sha256": "b8b3ce71eec494ecaebfa5e372c76f0cf8f5e05d83664bab9314d037797d5995",
+      "response_unchanged_after_generation": true
+    },
+    "contrast_1": {
+      "supplied_validator": "VALIDATION PASSED",
+      "full_output_schema": "PASS",
+      "input_schema": "PASS",
+      "response_sha256": "e0ae5ddd27d21612e63a40ca0cf856ad017b9c55c0d59f0a856fe1445f38b29d",
+      "prompt_sha256": "64ed3c9bd5e3324e06c7e73e9aa1f16c294750eef658fa1c04088db97176e829",
+      "response_unchanged_after_generation": true
+    },
+    "contrast_2": {
+      "supplied_validator": "VALIDATION PASSED",
+      "full_output_schema": "PASS",
+      "input_schema": "PASS",
+      "response_sha256": "f2d222db6261b652f54c50a7c60410530825d25d5d2215bd6e5f36097f18b561",
+      "prompt_sha256": "a875a27846c1fbcaa2a2cb9ebb4cffea015de59ca795a082689c98e0fcff32eb",
+      "response_unchanged_after_generation": true
+    }
+  },
+  "full_schema_method": "Read-only recursive checks cover every applicable keyword: types, required fields, additionalProperties, nested properties and array items. No unsupported schema keyword permitted.",
+  "preexisting_files_changed": [
+    "agents/innovation_disruption_agent/agent_metadata.json",
+    "agents/innovation_disruption_agent/specialist_instructions.md"
+  ],
+  "all_other_v0.1_archive_members_byte_identical": true,
+  "frozen_core": "FROZEN CORE INTACT",
+  "self_reflection": "mandatory, unwritten; submission incomplete",
+  "github": "outstanding; no repository/branch/commit verified"
+}

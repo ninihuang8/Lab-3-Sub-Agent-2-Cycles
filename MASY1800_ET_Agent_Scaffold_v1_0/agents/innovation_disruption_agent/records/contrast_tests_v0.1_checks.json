@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-10-10",
+  "runtime": "Two separately generated case responses in the current ChatGPT/Codex session using each case packet only; not isolated independent sessions and not API calls.",
+  "results": {
+    "contrast_1": {
+      "supplied_validator": "VALIDATION PASSED",
+      "full_output_schema": "PASS",
+      "response_sha256": "4ef4d9f06010e3f13f1d1767f3d43011101ad77d312edc97416c7be2a51214e9",
+      "prompt_sha256": "bb4680323fb0fa38c8789f5bdc26ee7503114dfb67fe12970700d976efc94c07",
+      "response_repaired": false
+    },
+    "contrast_2": {
+      "supplied_validator": "VALIDATION PASSED",
+      "full_output_schema": "PASS",
+      "response_sha256": "1beb0f4909c12723ad0dbe1928b494315ca6539425f94f7ce214d15b63586438",
+      "prompt_sha256": "a8475161c37e284cfed971d961db98b7f74892f83670664b7232995d6a7f2325",
+      "response_repaired": false
+    }
+  },
+  "full_schema_method": "Read-only recursive check of all applicable keywords in unchanged schema: types, required properties, top-level additionalProperties=false, nested object properties, and every array item.",
+  "prior_artifacts_unchanged": true,
+  "frozen_core": "FROZEN CORE INTACT",
+  "revision_applied": false,
+  "github": "outstanding",
+  "self_reflection": "mandatory and unwritten; submission incomplete"
+}

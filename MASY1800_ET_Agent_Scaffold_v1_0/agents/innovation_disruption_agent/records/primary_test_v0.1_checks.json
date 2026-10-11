@@ -1,0 +1,31 @@
+{
+  "run_date": "2026-10-10",
+  "runtime": "Current ChatGPT/Codex session generated the response from the existing packet; no API or separate ChatGPT tab was used.",
+  "prompt": "work/innovation_disruption_agent_primary_v0.1_prompt.txt",
+  "prompt_sha256": "45377bdcba7b95a726b80bbc053a855cab7563a4084911ea544320e6a095de58",
+  "response": "agents/innovation_disruption_agent/responses/primary_response_v0.1.json",
+  "response_sha256": "697b2aa848d98d81618a1233f443582ef36d76debaf695a961b1a7aed95ec0a2",
+  "supplied_validator": "VALIDATION PASSED",
+  "full_schema": "PASS",
+  "full_schema_method": "Read-only recursive check of every applicable keyword in the unchanged schema: object/array/string types, required properties, additionalProperties=false at top level, nested agent and all evidence objects, every string-array item. Nested additional properties permitted as schema specifies. External jsonschema package unavailable; no install or frozen edits performed.",
+  "constraints_checked": 68,
+  "response_repaired": false,
+  "instructions_case_evidence_changed": false,
+  "frozen_core": "FROZEN CORE INTACT",
+  "contrast_cases": "NOT RUN",
+  "diagnosis": {
+    "unsupported_facts": "No clearly fabricated factual or quantified outcome identified; source claims stay within packet summaries and conditional inferences are labeled.",
+    "judgment_caution": "Provisional Low is an analytical inference from bounded scope and stable internal-support purpose, not measured severity. Scale and restructuring unknowns make Moderate an unresolved alternative.",
+    "classification_caution": "General degree uncertain/mixed; proposed process innovation at application level, without proven local value. Case does not confirm model-directed action selection.",
+    "model_directed_distinction": "Explicit in general/application findings and trace request; tools and workflow state alone are insufficient.",
+    "missing_information": [
+      "execution traces and permitted action scope",
+      "comparative performance and automation baseline",
+      "costs and resource responses",
+      "internal funding/chargebacks and sourcing",
+      "current peer/competitor evidence"
+    ]
+  },
+  "self_reflection": "MANDATORY; reserved for user; unwritten, submission incomplete",
+  "github": "Outstanding; no repository/branch/commit verified"
+}

@@ -1,0 +1,23 @@
+{
+  "instruction_version": "0.1-student",
+  "requirements_audit": {
+    "created_and_displaced_value": "present: Required reasoning",
+    "early_vs_delayed_risk": "present: Required reasoning and risk output",
+    "competing_interpretation": "present: classification and contrary_evidence field",
+    "referrals": "present: Action constraints and boundaries"
+  },
+  "instruction_revision": "none",
+  "snapshot_sha256": "8f4819584a24bb70bfc0963a15cbcce20e3a3177f330e95c3132658f73172b07",
+  "snapshot_unchanged": true,
+  "case_checks": [
+    "primary: INPUT SCHEMA PASS",
+    "contrast_1: INPUT SCHEMA PASS",
+    "contrast_2: INPUT SCHEMA PASS"
+  ],
+  "identical_shared_evidence": true,
+  "frozen_core": "FROZEN CORE INTACT",
+  "all_original_archive_members_unchanged": true,
+  "response_runs": "NOT RUN",
+  "self_reflection": "mandatory; unwritten; final submission incomplete",
+  "github": "outstanding; no repository/branch/commit verified"
+}
