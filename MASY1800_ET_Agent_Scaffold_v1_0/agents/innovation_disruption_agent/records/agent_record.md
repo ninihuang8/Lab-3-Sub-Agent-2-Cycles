@@ -26,7 +26,7 @@ assignment-3-innovation-disruption-agent
 
 ### Commit
 
-0e3187d94d66182650b2b8d30c1a359caa531288
+2420a42b6ff403899ca3c4f6b086ec46a00c843a
 
 ### Frozen scaffold version
 
